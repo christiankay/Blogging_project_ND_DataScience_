@@ -37,5 +37,6 @@ This is an Udacity Nanodegree project. I was interested in using Stackoverflow D
 The main findings of the code can be found at the post available [here](https://medium.com/@c0knaak/how-to-increase-your-salary-as-a-developer-55b38509fa5f)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
+I want to give credit to Stackoverflow for providing the data. 
+You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
 I would also like to thank Udacity for providing example code snippets in the class room.
